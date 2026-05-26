@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Overworld \u003c-\u003e Nether",
+    "fromDimension": "minecraft:overworld",
+    "fromX": -22.0,
+    "fromY": 63.0,
+    "fromZ": 73.0,
+    "toDimension": "minecraft:the_nether",
+    "toX": 8.0,
+    "toY": 50.0,
+    "toZ": -3.0
+  },
+  {
+    "name": "Overworld \u003c-\u003e End",
+    "fromDimension": "minecraft:overworld",
+    "fromX": -25.0,
+    "fromY": 64.0,
+    "fromZ": 69.0,
+    "toDimension": "minecraft:the_end",
+    "toX": 3.0,
+    "toY": 62.0,
+    "toZ": 1.0
+  },
+  {
+    "name": "Overworld \u003c-\u003e Twilight Forest",
+    "fromDimension": "minecraft:overworld",
+    "fromX": -17.0,
+    "fromY": 63.0,
+    "fromZ": 60.0,
+    "toDimension": "twilightforest:twilight_forest",
+    "toX": -210.0,
+    "toY": 4.0,
+    "toZ": 405.0
+  },
+  {
+    "name": "Overworld \u003c-\u003e Undergarden",
+    "fromDimension": "minecraft:overworld",
+    "fromX": -27.0,
+    "fromY": 63.0,
+    "fromZ": 66.0,
+    "toDimension": "undergarden:undergarden",
+    "toX": -7.0,
+    "toY": 56.0,
+    "toZ": 17.0
+  }
+]

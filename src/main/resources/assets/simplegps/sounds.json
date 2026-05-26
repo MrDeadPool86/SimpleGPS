@@ -1,0 +1,13 @@
+{
+  "arrival": {
+    "sounds": [
+      "simplegps:arrival"
+    ]
+  },
+
+	"arrival_int": {
+		"sounds": [
+		"simplegps:arrival_int"
+		]
+	}
+}
